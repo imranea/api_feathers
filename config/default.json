@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mongodb": "mongodb+srv://imrane:kellox93@cluster0.8lzvd.mongodb.net/testfeathers?retryWrites=true&w=majority"
+}
